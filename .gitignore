@@ -1,12 +1,15 @@
-
 # Business Central symbols
 .alpackages/
 
-# Compiled AL packages
+# Compiled AL packages (includes "Default Publisher_*.app")
 *.app
+Default Publisher*
 
 # Local VS Code configurations
-.vscode/launch.json
+.vscode/
+
+# AL project manifest
+app.json
 
 # AL temporary files
 .snapshots/
