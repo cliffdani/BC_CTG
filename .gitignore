@@ -1,0 +1,18 @@
+
+# Business Central symbols
+.alpackages/
+
+# Compiled AL packages
+*.app
+
+# Local VS Code configurations
+.vscode/launch.json
+
+# AL temporary files
+.snapshots/
+*.snapshots
+.rad/
+
+# OS files
+.DS_Store
+Thumbs.db
